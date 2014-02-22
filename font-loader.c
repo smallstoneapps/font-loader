@@ -54,8 +54,8 @@ void fonts_cleanup(void) {
     fonts_unload_custom_font(current->font);
     free(current->name);
     AppFont* tmp = current;
-    current = tmp->next;
     free(current);
+    current = tmp->next;
   }
 }
 
