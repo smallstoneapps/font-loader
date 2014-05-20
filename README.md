@@ -28,6 +28,12 @@ static void window_load(Window* window) {
 }
 ````
 
+**You can also look at the [demo app](/demo/src/app.c) to see the library in action.**
+
+## Tests
+
+Font Loader has *very* minimal (and currently broken) tests, that you can run using `./run-tests.sh`.
+
 ## Function Documentation
 
 Initialise the Font Loader library.
