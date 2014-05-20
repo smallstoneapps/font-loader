@@ -30,7 +30,7 @@ THE SOFTWARE.
 
 --------------------
 
-font-loader.c
+src/font-loader.c
 
 */
 
