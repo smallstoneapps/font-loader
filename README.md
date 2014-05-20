@@ -23,7 +23,7 @@ static void deiinit(void) {
 }
 
 static void window_load(Window* window) {
-  text_layer_set_font(fonts_get_font(RESOURCE_ID_FONT_EXAMPLE_32));
+  text_layer_set_font(text_layer, fonts_get_font(RESOURCE_ID_FONT_EXAMPLE_32));
   GFont font = fonts_get_font_by_name("example font");
 }
 ````
