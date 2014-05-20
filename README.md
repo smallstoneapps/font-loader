@@ -2,6 +2,8 @@
 
 Pebble library to do lazy loading of fonts from resources.
 
+[![Support my development][gittip-image]][gittip-url]
+
 ## What does it do?
 
 Font Loader will automatically load fonts when they are needed, rather than having to handle the loading of them yourself.
@@ -64,3 +66,6 @@ Unload all the fonts from memory.
 ````c
 void fonts_cleanup(void);
 ````
+
+[gittip-url]: https://www.gittip.com/matthewtole/
+[gittip-image]: http://img.shields.io/gittip/matthewtole.svg
