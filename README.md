@@ -1,5 +1,3 @@
-# Font Loader v2.0.1
-
 # Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;![Version 2.1](http://img.shields.io/badge/version-2.0.1-orange.svg?style=flat-square)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)&nbsp;[![Support my development][gittip-image]][gittip-url]
 
 
