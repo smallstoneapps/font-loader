@@ -1,8 +1,11 @@
 # Font Loader v2.0.1
 
+# Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;![Version 2.1](http://img.shields.io/badge/version-2.0.1-orange.svg?style=flat-square)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)&nbsp;[![Support my development][gittip-image]][gittip-url]
+
+
 Pebble library to do lazy loading of fonts from resources.
 
-[![Support my development][gittip-image]][gittip-url]
+
 
 ## What does it do?
 
@@ -68,4 +71,4 @@ void fonts_cleanup(void);
 ````
 
 [gittip-url]: https://www.gittip.com/matthewtole/
-[gittip-image]: http://img.shields.io/gittip/matthewtole.svg
+[gittip-image]: http://img.shields.io/gittip/matthewtole.svg?style=flat-square
