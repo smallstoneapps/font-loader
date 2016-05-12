@@ -1,0 +1,33 @@
+{
+  "name": "@smallstoneapps/font-loader",
+  "version": "1.0.0",
+  "description": "Pebble library to do lazy loading of fonts from resources",
+  "main": "src/c/font-loader.c",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallstoneapps/font-loader.git"
+  },
+  "author": "Matthew Tole <pebble@matthewtole.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallstoneapps/font-loader/issues"
+  },
+  "homepage": "https://github.com/smallstoneapps/font-loader#readme",
+  "pebble": {
+    "sdkVersion": "3",
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk"
+    ]
+  },
+  "files": [
+    "dist.zip"
+  ]
+}

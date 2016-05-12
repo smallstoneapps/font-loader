@@ -1,0 +1,6 @@
+tests/include/
+.lock*
+build/
+dist.zip
+node_modules/
+CMakeLists.txt
