@@ -1,6 +1,6 @@
 {
   "name": "@smallstoneapps/font-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pebble library to do lazy loading of fonts from resources",
   "main": "src/c/font-loader.c",
   "directories": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/smallstoneapps/font-loader#readme",
   "pebble": {
+    "projectType": "package",
     "sdkVersion": "3",
     "targetPlatforms": [
       "aplite",

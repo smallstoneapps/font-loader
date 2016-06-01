@@ -1,4 +1,4 @@
-# Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;![Version 2.1](http://img.shields.io/badge/version-2.0.1-orange.svg?style=flat-square)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)&nbsp;[![Support my development](http://img.shields.io/gittip/matthewtole.svg?style=flat-square)](https://www.gittip.com/matthewtole/)
+# Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;![Version 1.0.1](http://img.shields.io/badge/version-1.0.1-orange.svg?style=flat-square)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)&nbsp;[![Support my development](http://img.shields.io/gittip/matthewtole.svg?style=flat-square)](https://www.gittip.com/matthewtole/)
 
 
 Pebble library to do lazy loading of fonts from resources.
