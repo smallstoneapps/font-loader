@@ -1,8 +1,17 @@
-# Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;![Version 1.0.1](http://img.shields.io/badge/version-1.0.1-orange.svg?style=flat-square)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)&nbsp;[![Support my development](http://img.shields.io/gittip/matthewtole.svg?style=flat-square)](https://www.gittip.com/matthewtole/)
+# Font Loader [![Build Status](http://img.shields.io/travis/smallstoneapps/font-loader.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/font-loader/)&nbsp;[![npm (scoped)](https://img.shields.io/npm/v/@smallstoneapps/font-loader.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/@smallstoneapps/font-loader)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)
 
 
 Pebble library to do lazy loading of fonts from resources.
 
+## Installation
+
+*You must be using Pebble SDK 3.12 or newer to use this library.*
+
+To install the package to your app, use the pebble tool:
+
+```
+pebble package install @smallstoneapps/font-loader
+```
 
 
 ## What does it do?

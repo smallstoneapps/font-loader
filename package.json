@@ -1,6 +1,6 @@
 {
   "name": "@smallstoneapps/font-loader",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Pebble library to do lazy loading of fonts from resources",
   "main": "src/c/font-loader.c",
   "directories": {
@@ -25,7 +25,8 @@
     "targetPlatforms": [
       "aplite",
       "basalt",
-      "chalk"
+      "chalk",
+      "diorite"
     ]
   },
   "files": [

@@ -11,8 +11,7 @@
   "pebble": {
     "uuid": "ad92cf11-e448-4db7-9735-acf529d7979f",
     "sdkVersion": "3",
-    "shortName": "Font Demo",
-    "longName": "Font Loader Demo",
+    "displayName": "Font Loader Demo",
     "companyName": "Matthew Tole",
     "watchapp": { "watchface": false },
     "resources": {
