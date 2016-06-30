@@ -9,6 +9,9 @@
   "scripts": {
     "test": "make"
   },
+  "keywords": [
+    "pebble-package"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/smallstoneapps/font-loader.git"
